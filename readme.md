@@ -44,9 +44,7 @@ Select the sorting algorithm:
 4. Quick Sort
 5. Heap Sort
 Enter your choice: 1
-```
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-```
