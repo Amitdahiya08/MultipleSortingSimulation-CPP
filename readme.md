@@ -50,5 +50,3 @@ Enter your choice: 1
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ```
-
-You can save this content into a file named `README.md` to provide users with a concise guide on how to use and understand your program.
